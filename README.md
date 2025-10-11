@@ -8,6 +8,10 @@
 ✔️ K-means聚类算法分类比赛  
 ✔️ 历史回测验证盈利能力  
 ✔️ 可视化网页界面跟踪表现  
+## 新增网页 手机下注可视化方案
+![f69c1f170ec1c19ca3b9d3469ee473b7](https://github.com/user-attachments/assets/de4093a3-5cd2-47df-a22b-535a8c67fe50)
+![710497719afcea8385ba26b0d8cbe0b0](https://github.com/user-attachments/assets/0afbad4d-e75d-4adf-9b2e-b34cb64350a1)
+
 
 ## 🔧 技术方案
 
