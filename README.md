@@ -18,6 +18,9 @@ https://roll888.top:1443/index#/
 <img width="1270" height="959" alt="image" src="https://github.com/user-attachments/assets/df9d94d3-4b04-4424-a851-831c2ccf3dee" />
 <img width="2128" height="871" alt="image" src="https://github.com/user-attachments/assets/fd3f778b-0bdd-4c36-a6d2-4fc9faa33b62" />
 
+## 发卡网址 
+- http://121.4.51.122:9998/#/
+<img width="2742" height="1496" alt="image" src="https://github.com/user-attachments/assets/a78f9e62-b3ff-402b-936d-5ed164dd1226" />
 
 ## 🔧 技术方案
 
