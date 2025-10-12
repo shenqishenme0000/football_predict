@@ -10,8 +10,14 @@
 ✔️ 可视化网页界面跟踪表现  
 ## 新增网页 手机下注可视化方案
 https://roll888.top:1443/index#/
-## hg下注端 日志优化
+## hg客户端端 优化
+- 规则可配置化
+- 规则盈利率可视化
+- 发卡网址配置 可自行账号体验
+- 日志系统设计 可查看下注日志
 <img width="1270" height="959" alt="image" src="https://github.com/user-attachments/assets/df9d94d3-4b04-4424-a851-831c2ccf3dee" />
+<img width="2128" height="871" alt="image" src="https://github.com/user-attachments/assets/fd3f778b-0bdd-4c36-a6d2-4fc9faa33b62" />
+
 
 ## 🔧 技术方案
 
